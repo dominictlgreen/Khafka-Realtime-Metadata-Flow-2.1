@@ -7,7 +7,7 @@ There is a lot of data floating around out there, writing and implementing syste
 Enter Khafka.. one of several types of technology but a pretty well established, world prven beast of data handling.
 Use it for metadata, metrics, process management, anomaly detection, transactions, or all of the above and more.
 
-## Multi format schema-adaptible data pipeline(s)
+## Multi format schema-adaptable data pipeline(s)
 
 Often there is varied metadata across tech stacks that can vary in complexity.
 One of the great things about khafka is that you can merge and build the compexity as streams merge (via your design).

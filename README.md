@@ -9,8 +9,8 @@ Use it for metadata, metrics, process management, anomaly detection, transaction
 
 ## Multi format schema-adaptable data pipeline(s)
 
-Often there is varied metadata across tech stacks that can vary in complexity.
-One of the great things about khafka is that you can merge and build the compexity as streams merge (via your design).
+Often there is varied metadata across tech stacks that can vary in complexity.  
+One of the great things about khafka is that you can merge and build the compexity as streams merge (via your design).  
 This becomes useful for efficiency and pipeline management (as well as evolution over time).
 
 -- -- -- -- 
